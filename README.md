@@ -15,7 +15,7 @@ A tiny, dependency-free Python parser that reads your timetable.log and prints a
 
 ## Requirements
 
->Python 3.7+ (3.8+ recommended)
+>Python 3.7+ 
 
 >No external packages (uses collections from stdlib)
 
