@@ -23,8 +23,8 @@ A tiny, dependency-free Python parser that reads your timetable.log and prints a
 
 Clone or download the repo:
 
->>git clone https://github.com/your-org/timetable-log-parser.git
->>cd timetable-log-parser
+>git clone https://github.com/Kushagra-Agnihotri/Timetable-log-parser
+>cd timetable-log-parser
 
 
 Put your log file in the repo folder (or note absolute path). The script uses P = "timetable.log" by default — edit that or pass your path by changing the PATH variable.
