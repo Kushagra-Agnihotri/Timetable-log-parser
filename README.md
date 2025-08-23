@@ -27,4 +27,4 @@ Clone or download the repo:
 >cd timetable-log-parser
 
 
-Put your log file in the repo folder (or note absolute path). The script uses P = "timetable.log" by default — edit that or pass your path by changing the PATH variable.
+Put your log file in the repo folder (or note absolute path). The script uses PATH = "timetable.log" by default — edit that or pass your path by changing the PATH variable.
